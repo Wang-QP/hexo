@@ -128,8 +128,8 @@ about:
   photo_url: /img/1.png ## Your photo e.g. http://cdn.chaooo.top/blog/themeauthor.jpg
   items:
   - label: email
-    url: mailto:wqp913@163.com ## Your email with mailto: e.g.  mailto:zhenggchaoo@gmail.com
-    title: wqp913@163.com ## Your email e.g.  zhenggchaoo@gmail.com
+    url: mailto:wangqp913@163.com ## Your email with mailto: e.g.  mailto:zhenggchaoo@gmail.com
+    title: wangqp913@163.com ## Your email e.g.  zhenggchaoo@gmail.com
   - label: github
     url: https://github.com/Wang-QP
     title: Wang-QP
