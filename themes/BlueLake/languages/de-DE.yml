@@ -3,6 +3,7 @@ blog: Blog
 albums: Alben
 categories: Kategorien
 tags: Tags
+tagcloud: Tag Cloud
 archive: Archiv
 links: Links
 about: Über
@@ -24,11 +25,10 @@ contents: Inhalte
 shareto: Aktie
 reading_label: Beiträge in
 search: Suche
-baidusitemap: Sitemap
+sitemap: Sitemap
 footer_rss: Abonnieren Sie diese Site
 contact_author: Kontaktieren Sie den Blogger
 topped: Überstiegen
 copyright_author: Ursprünglicher Autor
 copyright_link: Ursprünglicher Link
 copyright_notice: Copyright-Erklärung
-copyright_details: Bitte geben Sie die Quelle des Nachdrucks an.
